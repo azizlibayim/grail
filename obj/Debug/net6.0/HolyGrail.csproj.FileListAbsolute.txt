@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\bin\Debug\net6.0\HolyGrail.exe
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\bin\Debug\net6.0\HolyGrail.deps.json
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\bin\Debug\net6.0\HolyGrail.runtimeconfig.json
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\bin\Debug\net6.0\HolyGrail.dll
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\bin\Debug\net6.0\HolyGrail.pdb
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.AssemblyInfo.cs
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.dll
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\refint\HolyGrail.dll
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.pdb
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\HolyGrail.genruntimeconfig.cache
+C:\Users\Asus\Downloads\HolyGrail\HolyGrail\obj\Debug\net6.0\ref\HolyGrail.dll
